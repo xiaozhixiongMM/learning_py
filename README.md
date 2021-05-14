@@ -4,5 +4,5 @@ pycharm顶部菜单栏选择File---Settings---Plugins,查找安装choose runtime
 ## 2.pycharm有关字体排版问题
 如果新环境包字体排版过于紧凑，重新调节字体设置。选择File---Settings---Editor---Font，选择字体型号，大小，行距。
 ## 3.python 代码书写规范: PEP8 编码规范
-python官方原文（https://legacy.python.org/dev/peps/pep-0008/）
-中文翻译版(https://blog.csdn.net/ratsniper/article/details/78954852)
+[python官方原文](https://legacy.python.org/dev/peps/pep-0008/)
+[中文翻译版](https://blog.csdn.net/ratsniper/article/details/78954852)
