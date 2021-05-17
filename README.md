@@ -6,3 +6,6 @@ pycharm顶部菜单栏选择File---Settings---Plugins,查找安装choose runtime
 ## 3.python 代码书写规范: PEP8 编码规范
 [python官方原文](https://legacy.python.org/dev/peps/pep-0008/)
 [中文翻译版](https://blog.csdn.net/ratsniper/article/details/78954852)
+## 4.数组的广播机制
+a = torch.tensor([1,2,3,4]) b = torch.tensor([[100],[200]]) 计算a+b : a = [[1,2,3,4],[1,2,3,4]] b = [[100,100,100,100],[200,200,200,200]]
+a+b = [[101,102,103,104],[201,202,203,204]]
